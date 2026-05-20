@@ -1,16 +1,47 @@
-## Hi there 👋
+# Adam J. Garcia
 
-<!--
-**adamgarcia03/adamgarcia03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate · GPA 3.81 · Builder of things that work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write code across the stack — mobile, web, and everything in between. Recently graduated with a B.S. in Computer Science and a focus on building software that's thoughtful, tested, and clean.
+
+---
+
+## Skills
+
+**Languages** &nbsp;·&nbsp; Dart · Python · JavaScript · Java · C++
+
+**Mobile** &nbsp;·&nbsp; Flutter · Android
+
+**Web** &nbsp;·&nbsp; HTML · CSS · React
+
+**Tools** &nbsp;·&nbsp; Git · GitHub Actions · VS Code · Firebase
+
+**CS Fundamentals** &nbsp;·&nbsp; Data Structures · Algorithms · Automata Theory · Test-Driven Development
+
+---
+
+## Projects
+
+Bird Alert — Bird Identification Platform |  CSS· Python · Gemini API
+•	Developed features for a bird identification platform using AI-powered image classification
+•	Integrated image upload workflows and API-based bird recognition
+•	Collaborated in an Agile team environment using GitHub and shared repositories
+
+
+---
+
+## Education
+
+**B.S. Computer Science** — GPA 3.81  
+*Graduated 2025*
+
+---
+
+## Let's connect
+
+
+---
+
+*Open to new grad roles in mobile, full-stack, or software engineering.*
