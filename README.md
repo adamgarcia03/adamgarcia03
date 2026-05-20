@@ -16,7 +16,7 @@ I write code across the stack — mobile, web, and everything in between. Recent
 
 **Web** &nbsp;·&nbsp; HTML · CSS · React
 
-**Tools** &nbsp;·&nbsp; Git · GitHub Actions · VS Code · Firebase
+**Tools** &nbsp;·&nbsp; Git · GitHub Actions · VS Code 
 
 **CS Fundamentals** &nbsp;·&nbsp; Data Structures · Algorithms · Automata Theory · Test-Driven Development
 
@@ -35,7 +35,7 @@ Bird Alert — Bird Identification Platform |  CSS· Python · Gemini API
 ## Education
 
 **B.S. Computer Science** — GPA 3.81  
-*Graduated 2025*
+*Graduated May 2026*
 
 ---
 
