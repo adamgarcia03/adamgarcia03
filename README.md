@@ -10,11 +10,11 @@ I write code across the stack — mobile, web, and everything in between. Recent
 
 ## Skills
 
-**Languages** &nbsp;·&nbsp; Dart · Python · JavaScript · Java · C++
+**Languages** &nbsp;·&nbsp; Dart · Python · JavaScript · Java · C++ · C#
 
-**Mobile** &nbsp;·&nbsp; Flutter · Android
+**Mobile** &nbsp;·&nbsp; Flutter 
 
-**Web** &nbsp;·&nbsp; HTML · CSS · React
+**Web** &nbsp;·&nbsp; HTML · CSS 
 
 **Tools** &nbsp;·&nbsp; Git · GitHub Actions · VS Code 
 
@@ -24,10 +24,10 @@ I write code across the stack — mobile, web, and everything in between. Recent
 
 ## Projects
 
-Bird Alert — Bird Identification Platform |  CSS· Python · Gemini API
-•	Developed features for a bird identification platform using AI-powered image classification
-•	Integrated image upload workflows and API-based bird recognition
-•	Collaborated in an Agile team environment using GitHub and shared repositories
+🐦 Bird Alert
+An AI-powered bird identification platform using image classification.
+Developed features for image upload workflows and API-based bird recognition, collaborating in an Agile team environment.
+Python · CSS · Gemini API · GitHub
 
 
 ---
