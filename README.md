@@ -24,7 +24,7 @@ I write code across the stack — mobile, web, and everything in between. Recent
 
 ## Projects
 
-🐦 Bird Alert
+BirdAlert
 An AI-powered bird identification platform using image classification.
 Developed features for image upload workflows and API-based bird recognition, collaborating in an Agile team environment.
 Python · CSS · Gemini API · GitHub
