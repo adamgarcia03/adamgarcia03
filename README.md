@@ -41,7 +41,7 @@ Python · CSS · Gemini API · GitHub
 
 ## Let's connect
 
-
+www.linkedin.com/in/adam-garcia-86037b207
 ---
 
 *Open to new grad roles in mobile, full-stack, or software engineering.*
